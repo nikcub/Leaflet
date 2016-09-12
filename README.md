@@ -1,3 +1,9 @@
+## Leaflet EAC Fork
+
+EAC fork of Leaflet. Original README below
+
+=====
+
 <img width="600" src="https://rawgit.com/Leaflet/Leaflet/master/src/images/logo.svg" alt="Leaflet" />
 
 Leaflet is the leading open-source JavaScript library for **mobile-friendly interactive maps**.
